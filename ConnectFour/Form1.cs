@@ -6,7 +6,7 @@ namespace ConnectFour
 {
     public partial class ConnectFour : Form
     {
-        private readonly int[,] boardArray = new int[6, 7]; //-1: empty 0: Red 1:Yellow
+        private readonly int[,] boardArray = new int[6, 7]; //empty: -1  Red: 0  Yellow: 1
 
         private bool GameOver;
         private int Games;
