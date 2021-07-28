@@ -1,2 +1,2 @@
-# ConnectFour
+# ConnectFour 🕹🔴🟡
  Classic Connect Four game
